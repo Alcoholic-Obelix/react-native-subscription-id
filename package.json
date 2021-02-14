@@ -1,7 +1,7 @@
 {
   "name": "react-native-subscription-id",
   "title": "React Native Subscription Id",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TODO",
   "main": "index.js",
   "files": [
@@ -20,7 +20,10 @@
   "keywords": [
     "react-native"
   ],
-  "author": "ricardo_reis@live.com",
+  "author": {
+    "name": "ricardo_reis@live.com",
+    "username": "ricardo_reis@live.com"
+  },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "peerDependencies": {
